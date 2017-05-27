@@ -1,4 +1,4 @@
-(module MKDS_5-2-952 (layer F.Cu) (tedit 58C022D0)
+(module Phoenix_Contact_MKDS_5-2-952 (layer F.Cu) (tedit 5914E415)
   (descr "<b>MKDS 5/2-9,52</b><p>\nSource: PHOENIX CONTACT")
   (fp_text reference J1 (at 11.43 -5.08 180) (layer F.SilkS)
     (effects (font (size 1.2065 1.2065) (thickness 0.09652)) (justify left bottom))
@@ -139,9 +139,9 @@
   (fp_circle (center 0.01 1.212) (end 2.61 1.212) (layer F.SilkS) (width 0.1016))
   (pad 1 thru_hole circle (at 0 0) (size 2.5 2.5) (drill 1.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 9.5 0) (size 2.5 2.5) (drill 1.3) (layers *.Cu *.Mask))
-  (model D:/LibreSolar/2_Development/04_Hardware/MPPT_charger_kicad/modules/packages3d/LibreSolar.3dshapes/MKDS_5_2-9.5.wrl
-    (at (xyz 0.5622 -0.311 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Phoenix_Contact_MKDS_5_2-9.5.stp
+    (at (xyz 0.5629921259842521 -0.3110236220472442 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
   )
 )
