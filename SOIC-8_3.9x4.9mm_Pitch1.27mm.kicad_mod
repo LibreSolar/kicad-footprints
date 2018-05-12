@@ -1,4 +1,4 @@
-(module SOIC-8_3.9x4.9mm_Pitch1.27mm (layer F.Cu) (tedit 5A196836)
+(module SOIC-8_3.9x4.9mm_Pitch1.27mm (layer F.Cu) (tedit 5AE2BF86)
   (descr "8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "SOIC 1.27")
   (attr smd)
@@ -35,7 +35,7 @@
   (pad 6 smd roundrect (at 2.7 0.635) (size 1.6 0.6) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.2))
   (pad 7 smd roundrect (at 2.7 -0.635) (size 1.6 0.6) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.2))
   (pad 8 smd roundrect (at 2.7 -1.905) (size 1.6 0.6) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.2))
-  (model ${KISYS3DMOD}/Housings_SOIC.3dshapes/SOIC-8_3.9x4.9mm_Pitch1.27mm.wrl
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

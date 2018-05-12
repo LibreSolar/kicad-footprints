@@ -1,11 +1,11 @@
-(module D_SMB (layer F.Cu) (tedit 59B43A89)
+(module D_SMB (layer F.Cu) (tedit 5A2A7319)
   (descr "Diode SMB Standard")
   (tags "Diode SMB Standard")
   (attr smd)
   (fp_text reference REF** (at 0 -3.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value D_SMB_Standard (at 0 3.3) (layer F.Fab)
+  (fp_text value D_SMB (at 0 3.3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.55 -2.15) (end -3.55 2.15) (layer F.SilkS) (width 0.12))
@@ -30,7 +30,7 @@
   )
   (pad 1 smd rect (at -2.15 0) (size 2.5 2.3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.15 0) (size 2.5 2.3) (layers F.Cu F.Paste F.Mask))
-  (model Diodes_SMD.3dshapes/D_SMB_Standard.wrl
+  (model Diode_SMD.3dshapes/D_SMB.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
