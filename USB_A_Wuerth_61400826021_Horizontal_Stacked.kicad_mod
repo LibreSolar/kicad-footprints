@@ -75,12 +75,12 @@
   (pad 1 thru_hole rect (at 0 0) (size 1.5 1.5) (drill 0.92) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at -3.07 -0.35) (size 3 3) (drill 2.3) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 10.07 -0.35) (size 3 3) (drill 2.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_A_Wuerth_61400826021_Horizontal_Stacked.wrl
+  (model ${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Wuerth_61400826021_Horizontal_Stacked.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Wuerth_WR-COM_USB-A_2x_61400826021.stp
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WR-COM_USB-A_2x_61400826021.stp
     (offset (xyz 3.5 -7 8.300000000000001))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

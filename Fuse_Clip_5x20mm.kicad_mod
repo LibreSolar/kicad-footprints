@@ -25,12 +25,12 @@
   (pad 1 thru_hole circle (at -8.9 2.5) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 8.9 -2.5) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 8.9 2.5) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Keystone-3521.step
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Keystone-3521.step
     (offset (xyz -6.4 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
   )
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Keystone-3521.step
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Keystone-3521.step
     (offset (xyz 6.4 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

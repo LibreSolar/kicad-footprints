@@ -29,7 +29,7 @@
   (pad 1 thru_hole circle (at -4.45 5.15 90) (size 4.5 4.5) (drill 2.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 4.45 -5.15 90) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 4.45 5.15 90) (size 4.5 4.5) (drill 2.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Keystone-3550-2_fuse.stp
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Keystone-3550-2_fuse.stp
     (offset (xyz 0.45 7.5 19.9))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

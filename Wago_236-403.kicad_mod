@@ -23,12 +23,12 @@
   (pad 1 thru_hole circle (at -5 2.5) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5 -2.5) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5 2.5) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Wago_236-403.stp
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wago_236-403.stp
     (offset (xyz 8.1 2.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
   )
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Wuerth_WR-TBL_413B_691413720003B.stp2
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WR-TBL_413B_691413720003B.stp2
     (offset (xyz -5 1.2 4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

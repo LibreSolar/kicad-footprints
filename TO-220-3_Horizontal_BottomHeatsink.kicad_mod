@@ -46,7 +46,7 @@
   (pad 1 thru_hole rect (at 0 0) (size 1.905 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 2.54 -2.54) (size 1.905 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 5.08 0) (size 1.905 2) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/TO-220-3_Horizontal_BottomHeatsink.step
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/TO-220-3_Horizontal_BottomHeatsink.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

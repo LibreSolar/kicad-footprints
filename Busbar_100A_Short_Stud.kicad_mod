@@ -25,7 +25,7 @@
   (pad "1" smd roundrect (at 0 -13.75 90) (size 9.5 17) (layers "F.Cu" "F.Paste") (roundrect_rratio 0.2631578947) (tstamp c854f0a2-5a43-43c2-b7d9-8382a5aa6982))
   (pad "1" smd roundrect (at 5.75 -5.75 90) (size 5.5 5.5) (layers "F.Cu" "F.Paste") (roundrect_rratio 0.4545454545) (tstamp c86e26c0-63f7-43bd-8ade-27237c51e804))
   (pad "1" smd roundrect (at 0 -5 90) (size 27 17) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1470588235) (tstamp f4cf867f-caee-4dc6-8174-b7269284469d))
-  (model "${KICAD6_3DMODEL_DIR}/LibreSolar.3dshapes/Busbar_100a_short_stud.step"
+  (model "${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Busbar_100a_short_stud.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

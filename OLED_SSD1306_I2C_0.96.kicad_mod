@@ -37,12 +37,12 @@
   (pad "" np_thru_hole circle (at 15.46 0.5) (size 3 3) (drill 2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 15.46 24.3) (size 3 3) (drill 2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -7.84 24.3) (size 3 3) (drill 2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl
+  (model ${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/OLED_SSD1306_64x128_0.96.step
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/OLED_SSD1306_64x128_0.96.step
     (offset (xyz 3.81 1.5 10))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

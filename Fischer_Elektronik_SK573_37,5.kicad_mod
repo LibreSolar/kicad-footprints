@@ -27,7 +27,7 @@
   (fp_line (start 19.25 -20.5) (end -19.25 -20.5) (layer F.Fab) (width 0.12))
   (pad "" np_thru_hole circle (at -16 -4) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 16 -4) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Fischer_Elektronik_SK573_37,5_SA.step
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Fischer_Elektronik_SK573_37,5_SA.step
     (offset (xyz 6.25 -0.1 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

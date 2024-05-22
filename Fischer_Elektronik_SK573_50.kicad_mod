@@ -25,7 +25,7 @@
   (fp_line (start -25.5 5.5) (end 25.5 5.5) (layer F.Fab) (width 0.12))
   (fp_line (start 25.5 5.5) (end 25.5 -20.5) (layer F.Fab) (width 0.12))
   (fp_line (start 25.5 -20.5) (end -25.5 -20.5) (layer F.Fab) (width 0.12))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Fischer_Elektronik_SK573_50_SA.step
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Fischer_Elektronik_SK573_50_SA.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

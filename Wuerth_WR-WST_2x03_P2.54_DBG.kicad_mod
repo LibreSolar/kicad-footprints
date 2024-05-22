@@ -40,7 +40,7 @@
   (pad "4" thru_hole circle (at -3.81 2.54) (size 1.85 1.85) (drill 1.5) (layers *.Cu *.Mask) (tstamp 1e8d4d6d-d5b2-4f2a-b79a-4259ca332889))
   (pad "5" thru_hole circle (at -5.08 0) (size 1.85 1.85) (drill 1.5) (layers *.Cu *.Mask) (tstamp e71d611c-750a-4407-a7e5-874b3b273527))
   (pad "6" thru_hole circle (at -6.35 2.54) (size 1.85 1.85) (drill 1.5) (layers *.Cu *.Mask) (tstamp 0b234d8d-4079-45cd-b758-6fe5ac9447b2))
-  (model "${KICAD6_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WR-WST_490107670612.stp"
+  (model "${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WR-WST_490107670612.stp"
     (offset (xyz -5.5 -1.27 6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

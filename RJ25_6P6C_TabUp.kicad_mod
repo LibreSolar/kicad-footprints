@@ -32,7 +32,7 @@
   (pad 2 thru_hole circle (at 1.53 -2.4) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -6 0) (size 2.36 2.36) (drill 2.36) (layers *.Cu *.Mask))
   (pad 1 thru_hole roundrect (at 2.55 -4.84) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask) (roundrect_rratio 0.2))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Wuerth_WR-MJ_6P6C_615006138421.stp
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WR-MJ_6P6C_615006138421.stp
     (offset (xyz 0 0.5 7.2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

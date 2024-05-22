@@ -104,7 +104,7 @@
           (xy -2.799999 3.890908)
         ) (width 0) (fill yes))
     ) (tstamp f1d19240-ee83-4c80-a9ea-678b27d9d1c8))
-  (model "${KICAD6_3DMODEL_DIR}/LibreSolar.3dshapes/Bourns_CSS2H-5930.stp"
+  (model "${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Bourns_CSS2H-5930.stp"
     (offset (xyz -7.5 -3.875 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

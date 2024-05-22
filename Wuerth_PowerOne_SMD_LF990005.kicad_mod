@@ -63,7 +63,7 @@
   (fp_circle (center 0 0) (end 4.064 3.302) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp ceda8dcb-d17b-4fd5-84f6-a5a24d556a72))
   (fp_circle (center 0 0) (end 3.556 3.81) (layer "F.Fab") (width 0.1) (fill none) (tstamp 08f098c4-4bb4-41b1-b4ca-c53de5b63793))
   (pad "1" smd circle (at 0 0) (size 10 10) (layers "F.Cu" "F.Mask") (tstamp 542a7a8e-a796-4186-ae38-87dca74e3077))
-  (model "${KICAD6_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_LF990005-B01.step"
+  (model "${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_LF990005-B01.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

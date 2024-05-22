@@ -76,7 +76,7 @@
   (fp_circle (center 0 0) (end 3.556 3.81)
     (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp 08f098c4-4bb4-41b1-b4ca-c53de5b63793))
   (pad "1" smd circle (at 0 0) (size 10 10) (layers "F.Cu" "F.Mask") (tstamp 542a7a8e-a796-4186-ae38-87dca74e3077))
-  (model "${KICAD7_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WP-SMBU_7466205.stp"
+  (model "${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WP-SMBU_7466205.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 90 0))

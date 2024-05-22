@@ -114,7 +114,7 @@
     (solder_mask_margin 0.1016))
   (pad 1 smd roundrect (at 0 -0.5 90) (size 0.35 2.5) (layers F.Cu F.Mask) (roundrect_rratio 0.2)
     (solder_mask_margin 0.1016))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/DFN-10-1EP_2x3mm_P0.5mm_EP0.64x2.4mm.step
+  (model ${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-10-1EP_2x3mm_P0.5mm_EP0.64x2.4mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

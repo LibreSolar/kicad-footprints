@@ -37,7 +37,7 @@
   (fp_circle (center 7.493 -7.493) (end 10.5918 -7.493) (layer "F.Fab") (width 0.1) (fill none) (tstamp c5ef3247-b06c-44c4-8366-461fa77b0f2d))
   (pad "1" thru_hole circle (at 20.3962 -12.192) (size 3.048 3.048) (drill 1.524) (layers *.Cu *.Mask) (tstamp 7e600ba2-566c-49f7-a3e4-5e995a8cde37))
   (pad "2" thru_hole circle (at 34.5948 -12.192) (size 3.048 3.048) (drill 1.524) (layers *.Cu *.Mask) (tstamp bb4201e9-e89d-4fba-9d1f-406c31ea5870))
-  (model "${KICAD6_3DMODEL_DIR}/LibreSolar.3dshapes/Vishay_WSMS_5515.step"
+  (model "${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Vishay_WSMS_5515.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

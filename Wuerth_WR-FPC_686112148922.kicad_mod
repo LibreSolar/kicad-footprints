@@ -26,7 +26,7 @@
   (pad 12 smd roundrect (at 5.5 -2.65) (size 0.6 1.3) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.25))
   (pad "" smd roundrect (at -7.8 0.1) (size 2 1.8) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.25))
   (pad "" smd roundrect (at 7.8 0.1) (size 2 1.8) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Wuerth_WR-FPC_686112148922.stp
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WR-FPC_686112148922.stp
     (at (xyz 0 0 0.04330708661417323))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

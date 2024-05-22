@@ -52,7 +52,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 5.75 -2.5) (size 2.2 2.2) (drill 1.3) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -1.25 -2.5) (size 2.2 2.2) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Wuerth_WS-TATU_431256083716.stp
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WS-TATU_431256083716.stp
     (at (xyz 0.08858267716535434 0 0.1574803149606299))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -28,7 +28,7 @@
   (fp_line (start 7.5 4) (end -7.5 4) (layer "F.Fab") (width 0.1) (tstamp ead22a00-b3aa-4f46-9b5c-248ae39e5239))
   (pad "1" smd roundrect (at -5.4 0) (size 5.5 8.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 5332644f-a666-40af-9bff-1ef5723815be))
   (pad "2" smd roundrect (at 5.4 0) (size 5.5 8.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp f1d19240-ee83-4c80-a9ea-678b27d9d1c8))
-  (model "${KICAD6_3DMODEL_DIR}/LibreSolar.3dshapes/Bourns_CSS2H-5930.stp"
+  (model "${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Bourns_CSS2H-5930.stp"
     (offset (xyz -7.5 -3.875 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

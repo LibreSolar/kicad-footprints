@@ -22,7 +22,7 @@
   )
   (pad 2 smd roundrect (at 2.2 0) (size 2.1 6.1) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.2))
   (pad 1 smd roundrect (at -2.2 0) (size 2.1 6.2) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.2))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Bourns_SRN6045TA.stp
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Bourns_SRN6045TA.stp
     (at (xyz 0 0 0.1535433070866142))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))

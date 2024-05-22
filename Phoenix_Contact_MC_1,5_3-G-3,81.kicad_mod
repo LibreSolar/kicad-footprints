@@ -19,7 +19,7 @@
   (pad 2 thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -3.81 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 3.81 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Phoenix_Contact_MC_1,5_3-G-3,81_1803280.stp
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Phoenix_Contact_MC_1,5_3-G-3,81_1803280.stp
     (at (xyz -0.15 0.04724409448818898 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

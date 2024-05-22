@@ -69,12 +69,12 @@
   (pad "10" smd rect (at 3.81 -2.794) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8229b099-309a-4a13-be39-4bc5f8603d57))
   (pad "11" smd rect (at 6.35 2.794) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 15f8c710-eb9b-4061-af88-c8d84f5e74f8))
   (pad "12" smd rect (at 6.35 -2.794) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 95b5e94b-0289-47ac-a9c3-c20dac7144d1))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Samtec_HLE_SMD.3dshapes/Samtec_HLE-106-02-xxx-DV-A_2x06_P2.54mm_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Connector_Samtec_HLE_SMD.3dshapes/Samtec_HLE-106-02-xxx-DV-A_2x06_P2.54mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KICAD6_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WR-PHD_610312243021.stp"
+  (model "${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WR-PHD_610312243021.stp"
     (offset (xyz 0 0 1.9))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

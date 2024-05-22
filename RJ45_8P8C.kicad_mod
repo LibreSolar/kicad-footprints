@@ -34,7 +34,7 @@
   (pad 6 thru_hole circle (at 1.905 -5.08) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 3.175 -2.54) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 4.445 -5.08) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Wuerth_WR-MJ_615008137121.stp
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WR-MJ_615008137121.stp
     (at (xyz 0 -0.1062992125984252 0.2283464566929134))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

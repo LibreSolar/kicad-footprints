@@ -50,7 +50,7 @@
   (pad D smd rect (at -1.15 -2 90) (size 0.6 0.9) (layers F.Cu F.Paste))
   (pad D smd rect (at 0 -2 90) (size 0.6 0.9) (layers F.Cu F.Paste))
   (pad D smd rect (at 1.15 -2 90) (size 0.6 0.9) (layers F.Cu F.Paste))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/DFN-8-1EP_6x5mm_P1.27mm_EP4x4mm.step
+  (model ${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_6x5mm_P1.27mm_EP4x4mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

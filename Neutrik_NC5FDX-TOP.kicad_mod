@@ -20,7 +20,7 @@
   (fp_line (start -12.5 -0.5) (end -12.5 -20) (layer F.CrtYd) (width 0.15))
   (fp_line (start 16 -0.5) (end 12.5 -0.5) (layer F.CrtYd) (width 0.15))
   (fp_line (start -12.5 -0.5) (end -16 -0.5) (layer F.CrtYd) (width 0.15))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Neutrik_NC5FDX_TOP.stp
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Neutrik_NC5FDX_TOP.stp
     (offset (xyz 0 0 13))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 90 0))

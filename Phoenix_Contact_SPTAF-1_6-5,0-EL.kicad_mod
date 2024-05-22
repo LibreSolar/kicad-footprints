@@ -32,7 +32,7 @@
   (pad 6 thru_hole circle (at 25 5) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 20 5) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 15 5) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/LibreSolar.3dshapes/Phoenix_Contact_SPTAF-1-6-5-0-EL_1862453.stp
+  (model ${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Phoenix_Contact_SPTAF-1-6-5-0-EL_1862453.stp
     (offset (xyz -2.5 -8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

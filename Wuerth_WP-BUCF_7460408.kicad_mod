@@ -36,7 +36,7 @@
   (pad "1" thru_hole circle locked (at -3.81 -3.81) (size 2.2 2.2) (drill 1.475) (layers *.Cu *.Mask) (tstamp b54f3d25-a62e-449c-83e9-ae0b70eb617f))
   (pad "1" thru_hole circle locked (at 3.81 1.27) (size 2.2 2.2) (drill 1.475) (layers *.Cu *.Mask) (tstamp d613534e-0d26-40b3-bf58-87efd2a5e8c0))
   (pad "1" thru_hole circle locked (at 3.81 -3.81) (size 2.2 2.2) (drill 1.475) (layers *.Cu *.Mask) (tstamp e9f379ed-ac5c-44cd-b181-849cc98d51c4))
-  (model "${KICAD6_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WP-BUCF_7460408.stp"
+  (model "${LIBRESOLAR_3DMODEL_DIR}/LibreSolar.3dshapes/Wuerth_WP-BUCF_7460408.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -29,7 +29,7 @@
   (pad 2 smd roundrect (at 0.9 -1.2) (size 0.8 0.5) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.2))
   (pad 6 smd roundrect (at 0.9 0.4) (size 0.8 0.4) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.2))
   (pad 8 smd roundrect (at 0.9 1.2) (size 0.8 0.5) (layers F.Cu F.Paste F.Mask)(roundrect_rratio 0.2))
-  (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_Array_Convex_4x0603.wrl
+  (model ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Array_Convex_4x0603.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
